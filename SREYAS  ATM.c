@@ -1,9 +1,10 @@
 #include<stdio.h>
 int main()
 {
-    //These is where the declaration is done
+    //These is where the declaration is done//
     int balance=1500000,depositeamount,withdrawlamount,choice,num,i,key;
     int newpin;
+    //thewe is new file
     int account=123456;
     int number;
     int pin=1234;
